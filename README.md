@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **I'm very disciplined and i love challenging myself everyday to achieve better outputs as well in working too :D.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
