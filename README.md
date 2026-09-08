@@ -3,7 +3,7 @@
 
 - I'm currently working on **being a high skilled AI Engineer.**
 
-- 🌱 I'm currently learning **Machine Learning, AI Fluency, Web Development, Data Science & Analysis, and increasing my expertise by indulging in various Internships.**
+- 🌱 I'm currently learning **Web Development, Machine Learning, AI Fluency, Data Science & Analysis, and increasing my expertise by indulging in various Internships.**
 
 - 🎓 Internships Arsenal: **GenAI CIB Intern, Front End AI Engineering & AI Fluency Intern at FlyRank AI.**
 
