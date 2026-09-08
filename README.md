@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Machine Learning, AI Fluency, Web Development, Data Science & Analysis, and increasing my expertise by indulging in various Internships.**
 
-- 🎓 Internships Arsenal: **GenAI CIB Intern, Front End AI Engineering Intern at FlyRank AI.**
+- 🎓 Internships Arsenal: **GenAI CIB Intern, Front End AI Engineering & AI Fluency Intern at FlyRank AI.**
 
 - 🤝 I'm looking for opportunities to **put all what I've learnt into real life scenario cases and training and learning more from your experts :) .**
 
