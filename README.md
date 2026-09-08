@@ -9,7 +9,7 @@
 
 - 🤝 I'm looking for opportunities to **put all what I've learnt into real life scenario cases and training and learning more from your experts :) .**
 
-- 👨‍💻 All of my projects are available at the Github repositories here! [https://github.com/contactahmedwael-hub?tab=repositories](https://github.com/contactahmedwael-hub?tab=repositories)
+- 👨‍💻 All of my projects are available at the Github repositories here! [https://github.com/contactahmedwael-hub?tab=repositories](https://github.com/contactahmedwael-hub?tab=stars)
 
 - 📫 How to reach me **contactahmedwael@gmail.com** or Send at **+20 1091673132**
 
